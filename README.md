@@ -53,7 +53,7 @@
 ###
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=islem-boudja&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats-neon-phi-80.vercel.app/api?username=islem-boudja&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
