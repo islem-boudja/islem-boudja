@@ -82,34 +82,27 @@
 
 <li>
 <a href="https://linkedin.com/in/boudjaislem" target="_blank">
-<img src="https://img.shields.io/badge/linkedin" alt=linkedin style="margin-bottom: 5px;"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn" style="margin-bottom: 5px;"/>
 </a>
-</li>
 
 <br>
 
-<li>
 <a href="https://twitter.com/notworking" target="_blank">
-<img src="https://img.shields.io/badge/twitter " alt=twitter style="margin-bottom: 5px;"/>
+  <img src="https://img.shields.io/badge/Twitter-blue" alt="Twitter" style="margin-bottom: 5px;"/>
 </a>
-</li>
 
 <br>
 
-<li>
 <a href="mailto:i_boudja@estin.dz" target="_blank">
-<img src="https://img.shields.io/badge/gmail" t=mail style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/Gmail-red" alt="Gmail" style="margin-bottom: 5px;" />
 </a>
-</li>
-	
-</ul>
-</div>
 
 <br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
 
+<br>
+<br>
+<br>
 
 ###
