@@ -81,17 +81,10 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/boudjaislem" target="_blank">
+<a href="https://www.linkedin.com/in/islem-boudja" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue" alt="LinkedIn" style="margin-bottom: 5px;"/>
 </a>
 
-<br>
-
-<a href="https://twitter.com/notworking" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-blue" alt="Twitter" style="margin-bottom: 5px;"/>
-</a>
-
-<br>
 
 <a href="mailto:i_boudja@estin.dz" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-red" alt="Gmail" style="margin-bottom: 5px;" />
