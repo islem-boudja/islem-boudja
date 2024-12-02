@@ -15,8 +15,7 @@
 
 <br>
 
-- A passionate Self-taught full-stack  and mobile applications developer 
-- Currently learning ML 
+- A passionate Self-taught software applications developer 
 - I’m currently open to work
 <br><br>
 
